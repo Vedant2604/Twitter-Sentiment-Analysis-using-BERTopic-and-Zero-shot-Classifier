@@ -21,7 +21,7 @@ This project leverages the BERTopic model for topic modeling and sentiment analy
 To get started, clone this repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/twitter-sentiment-analysis.git
+git clone https://github.com/Vedant2604/Twitter-Sentiment-Analysis-using-BERTopic-and-Zero-shot-Classifier.git
 cd twitter-sentiment-analysis
 pip install -r requirements.txt
 ```
